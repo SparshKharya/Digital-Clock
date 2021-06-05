@@ -75,7 +75,7 @@ html,body{
     text-align: center;
 }
 footer span a{
-    color: crimson;
+    color: #ffff00;
     text-decoration: none;
 }
 footer span a:hover{
