@@ -68,6 +68,19 @@ html,body{
 .wrapper span:last-child{
   filter: blur(20px);
 }
+     footer{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a{
+    color: crimson;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
   </style>
    <body>
       <div class="wrapper">
@@ -101,5 +114,8 @@ html,body{
            time.textContent = hours + ":" + minutes + ":" + seconds + " "+ day_night;
          });
       </script>
+         <footer>
+        <span>Created By <a href="#">SparshKharya</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
+    </footer>
    </body>
 </html>
