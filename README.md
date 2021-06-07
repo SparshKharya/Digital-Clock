@@ -115,7 +115,7 @@ footer span a:hover{
          });
       </script>
          <footer>
-        <span>Created By <a href="#">SparshKharya</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
+        <span>Created By <a href="#">SparshKharya</a> | <span class="far fa-copyright"></span>&#169 2021 All rights reserved.</span>
     </footer>
    </body>
 </html>
